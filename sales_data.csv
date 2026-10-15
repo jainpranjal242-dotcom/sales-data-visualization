@@ -1,0 +1,13 @@
+Month,Sales,Region,Category
+Jan,12000,North,Electronics
+Feb,14500,South,Furniture
+Mar,13800,East,Office Supplies
+Apr,16000,West,Electronics
+May,17500,North,Furniture
+Jun,16800,South,Office Supplies
+Jul,19000,East,Electronics
+Aug,21000,West,Furniture
+Sep,19800,North,Office Supplies
+Oct,22500,South,Electronics
+Nov,24000,East,Furniture
+Dec,26500,West,Office Supplies
